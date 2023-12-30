@@ -13,10 +13,10 @@
 
 ### **Вихідні дані:** 
 **Перша мережа (first net):** 
-2 комутатори з’єднані між собою (Switch 0, Switch 1), сервер під’єднаний до комутатора Switch 0 (Server 0), 2 комп’ютери під’єднані до Switch 1 (PC 0, PC 1), 2 точки доступу (Access Point 1, Access Point 2) під’єднані до Switch 0, 4 ноутбуки під’єднані до Access Point 1 (Laptop 0, Laptop 1, Laptop 2, Laptop 3), 2 ноутбуки під’єднані до Access Point 2 ( Laptop 4, Laptop 5), маршрутизатор під’єднаний до Switch  0 (Router 1).
+> 2 комутатори з’єднані між собою (Switch 0, Switch 1), сервер під’єднаний до комутатора Switch 0 (Server 0), 2 комп’ютери під’єднані до Switch 1 (PC 0, PC 1), 2 точки доступу (Access Point 1, Access Point 2) під’єднані до Switch 0, 4 ноутбуки під’єднані до Access Point 1 (Laptop 0, Laptop 1, Laptop 2, Laptop 3), 2 ноутбуки під’єднані до Access Point 2 ( Laptop 4, Laptop 5), маршрутизатор під’єднаний до Switch  0 (Router 1).
 
 **Друга мережа (second net):**
-комутатор (Switch 2), 3 комп’ютери під’єднані до Switch 2 (PC 2, PC 3, PC 4), сервер під’єднаний до Switch 2 (Server 1), маршрутизатор під’єднаний до Switch  2 (Router 2).
+> комутатор (Switch 2), 3 комп’ютери під’єднані до Switch 2 (PC 2, PC 3, PC 4), сервер під’єднаний до Switch 2 (Server 1), маршрутизатор під’єднаний до Switch  2 (Router 2).
 
 **Третя мережа (third net):** 
 2 роутери з’єднані між собою (Router 1, Router 2).

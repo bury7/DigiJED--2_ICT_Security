@@ -1,5 +1,4 @@
-<p align="center">
-  # Звіт з лабораторної роботи № 1 з курсу “DigiJED - 2 ICT Security”
+# Звіт з лабораторної роботи № 1 з курсу “DigiJED - 2 ICT Security”
 **Виконав:** Ніживенко А. Д. 
 
 **Варіант:** № 9
@@ -8,7 +7,6 @@
 
 **2023**
 
-</p>
 ### **Тема:** “Побудова віртуальних локальних мереж”
 
 ### **Мета:** Набуття практичних навичок щодо побудови і захисту віртуальних локальних мереж.
@@ -24,9 +22,10 @@
 2 роутери з’єднані між собою (Router 1, Router 2).
 
 ## Хід роботи
-1 ) Розділено першу мережу на дві віртуальні мережі: перша з назвою VLAN X  і номером 100, а друга з назвою VLAN Y і номером 200. До VLAN  X входить PC 0, PC 1, Laptop 4 та Laptop 5. До VLAN Y входить Laptop 0, Laptop 1, Laptop 2, Laptop 3 та Server 0.
+  1 ) Розділено першу мережу на дві віртуальні мережі: перша з назвою VLAN X  і номером 100, а друга з назвою VLAN Y і номером 200. До VLAN  X входить PC 0, PC 1, Laptop 4 та Laptop 5. До VLAN Y входить Laptop 0, Laptop 1, Laptop 2, Laptop 3 та Server 0.
 Для цього виконано такі команди на Switch 0 та Switch 1:
 
+```
 Switch#enable
 Switch#configure terminal
 Switch(config)#vlan 100
@@ -35,6 +34,7 @@ Switch(config-vlan)#exit
 Switch(config)#vlan 200
 Switch(config-vlan)#name VLAN_Y
 Switch(config-vlan)#exit
+```
 
 2) Розподілено порти доступу на комутаторах: у Switch 0 це порти FastEthernet 0/1 і FastEthernet 0/3 для VLAN Y та FastEthernet 0/4 для VLAN X, у Switch 1 це порти FastEthernet 0/1 і FastEthernet 0/2 для VLAN X.
 Для цього виконано такі команди:

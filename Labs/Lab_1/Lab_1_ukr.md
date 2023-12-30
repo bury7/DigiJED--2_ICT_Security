@@ -1,4 +1,5 @@
-<p align="center"># Звіт з лабораторної роботи № 1 з курсу “DigiJED - 2 ICT Security”
+<p align="center">
+  # Звіт з лабораторної роботи № 1 з курсу “DigiJED - 2 ICT Security”
 **Виконав:** Ніживенко А. Д. 
 
 **Варіант:** № 9

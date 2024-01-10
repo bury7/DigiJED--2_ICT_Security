@@ -62,9 +62,9 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
   For the packet transmission from node 1 (sender) to node 6 (receiver), the optimal route was computed for each of the specified metrics. Additionally, three supplementary metrics were established for each route:
 
-    Number of retransmissions (hops).
-    Throughput capacity.
-    Probability of compromise.
+  -  Number of retransmissions (hops).
+  -  Throughput capacity.
+  -  Probability of compromise.
 
   All routes shared the same number of hops, specifically three. The route calculated using RIP metrics aimed for the minimum number of hops, while the distances for the other two routes were matched to that of the RIP-calculated route.
 
@@ -74,9 +74,9 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
   In summary:
 
-    If minimizing distance is the primary objective, RIP is the optimal choice.
-    For the highest minimum throughput, OSPF emerges as the best option.
-    When security is the utmost priority, the security metric proves to be the most suitable choice.
+  -  If minimizing distance is the primary objective, RIP is the optimal choice.
+  -  For the highest minimum throughput, OSPF emerges as the best option.
+  -  When security is the utmost priority, the security metric proves to be the most suitable choice.
 
 
 ## License

@@ -7,11 +7,27 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
 ## More about the projects
 
-### Practice
+### [Practice](Practice)
 
-- [schema.sql](Practice/Practice_LAN.pkt):
+- Practice_LAN
 
-### Labs
+- Practice_VLAN
+
+- Practice_Secure_Router
+
+- Practice_VPN
+
+- Practice_Wi-Fi
+
+### [Labs](Labs)
+
+- [Building virtual local area networks](Labs/Lab_1)
+  
+- [Protection of local networks](Labs/Lab_2)
+
+- [Protection of global networks](Labs/Lab_3)
+
+- [Study of single-path routing solutions for different types of metrics](Labs/Lab_4)
 
 ## License
 

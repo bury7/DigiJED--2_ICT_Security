@@ -44,6 +44,7 @@ The second task centered around exploring DHCP service protection. Legitimate an
 The overarching objective of the lab was to acquaint students with fundamental methods for safeguarding local networks and to cultivate practical skills in their application. These acquired skills empower individuals to adeptly manage network security, proactively mitigating potential threats.
 
 - [Protection of global networks](Labs/Lab_3):
+- 
 Throughout the laboratory session, various elements of the network infrastructure were set up and tested, encompassing remote secure access through SSH, configuration of the RIP routing protocol, and the implementation of the HSRP fault-tolerant routing protocol.
 
 In the initial phase of the lab, it was identified that utilizing the SSH protocol offers a dependable and secure method for remote access to network devices. The incorporation of data encryption and robust authentication mechanisms serves to mitigate the risks associated with unauthorized system access.

@@ -9,19 +9,19 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
 ### [Practice](Practice)
 
-- Practice_LAN
+- Practice LAN
 
-- Practice_VLAN
+- Practice VLAN
 
-- Practice_Secure_Router
+- Practice Secure Router
 
-- Practice_VPN
+- Practice VPN
 
-- Practice_Wi-Fi
+- Practice Wi-Fi
 
 ### [Labs](Labs)
 
-- [Building virtual local area networks](Labs/Lab_1)
+- #### [Building virtual local area networks](Labs/Lab_1)
   
 - [Protection of local networks](Labs/Lab_2)
 

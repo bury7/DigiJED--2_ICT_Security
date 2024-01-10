@@ -31,11 +31,11 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
 ### [Labs](Labs)
 
-- ##[Building virtual local area networks](Labs/Lab_1):
+- [Building virtual local area networks](Labs/Lab_1):
   
   In this lab session, we developed proficiency in establishing and securing virtual local area networks (VLANs). Our focus included the creation of access ports and trunk ports, along with configuring routers to facilitate routing between these virtual networks. We delved into the intricacies of Dynamic Trunking Protocol (DTP) and VLAN Trunking Protocol (VTP), recognizing the advantages of automation for simplifying tasks, while acknowledging the potential risks associated with attackers exploiting the vulnerabilities inherent in these protocols.
 
-- ##[Protection of local networks](Labs/Lab_2):
+- [Protection of local networks](Labs/Lab_2):
 
   During the laboratory work, we delved into the implementation of security tools for local networks, focusing on configuring Port Security on Switch 0 in the initial task. This involved setting limits on the maximum number of devices permitted on specific ports, providing a robust means of controlling network access. Two potential security breach scenarios were simulated to assess the effectiveness of the applied measures.
 
@@ -43,7 +43,7 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
   The overarching objective of the lab was to acquaint students with fundamental methods for safeguarding local networks and to cultivate practical skills in their application. These acquired skills empower individuals to adeptly manage network security, proactively mitigating potential threats.
 
-- ##[Protection of global networks](Labs/Lab_3):
+- [Protection of global networks](Labs/Lab_3):
   
   Throughout the laboratory session, various elements of the network infrastructure were set up and tested, encompassing remote secure access through SSH, configuration of the RIP routing protocol, and the implementation of the HSRP fault-tolerant routing protocol.
 
@@ -57,7 +57,7 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 
   The overarching objective of the lab was to explore and implement crucial aspects of networking technologies with a focus on security and fault tolerance. The skills acquired during these tasks serve as a valuable asset for proficiently managing local network security, offering the capability to proactively counter potential threats to the infrastructure.
 
-- ##[Study of single-path routing solutions for different types of metrics](Labs/Lab_4):
+- [Study of single-path routing solutions for different types of metrics](Labs/Lab_4):
   
   This laboratory investigation delved into a comprehensive examination of single-path routing solutions using the GEKKO Optimization Suite in Python. The study considered three distinct variants of routing metrics vectors: RIP, OSPF, and security metrics. The obtained results offer a basis for comparing various facets of routing, enabling the selection of the optimal route based on user-defined requirements.
 
@@ -79,6 +79,7 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
   -  For the highest minimum throughput, OSPF emerges as the best option.
   -  When security is the utmost priority, the security metric proves to be the most suitable choice.
 
+More details can be found in the reports for each laboratory work.
 
 ## License
 

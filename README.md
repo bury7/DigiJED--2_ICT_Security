@@ -10,18 +10,23 @@ In the DigiJED-2 ICT Security course, I've gained essential theoretical and prac
 ### [Practice](Practice)
 
 - Practice LAN
+  During this practical lesson, two local area networks were configured using different devices, and address assignment was configured both statically and dynamically using the DHCP protocol.
 
 - Practice VLAN
+  During this practical lesson, three virtual LANs were configured, with and without DTP, and the VTP protocol was also used. It was possible to connect from each virtual network to another, as well as to connect to the global network with each virtual network
 
 - Practice Secure Router
+  During this practical lesson, security was ensured when connecting to the router directly, or via telnet or ssh protocols, as well as securing the router's privileged mode and encrypting all passwords stored in the router system. 
 
 - Practice VPN
+  During this practical lesson, we set up a VPN connection from one of the virtual local area networks to another network. The ISAKMP and IPsec protocols were used in this lab.
 
 - Practice Wi-Fi
+  During this practical lesson, we set up a wireless network, use different types of 2.4GHz and 5GHz networks, configure DHCP service on wireless and regular routers, set up a guest network on a wireless router, secure this network, and create an access сontrol list.
 
 ### [Labs](Labs)
 
-- #### [Building virtual local area networks](Labs/Lab_1)
+- [Building virtual local area networks](Labs/Lab_1)
   
 - [Protection of local networks](Labs/Lab_2)
 
